@@ -40,5 +40,6 @@ public class Binary {
         int k = sc.nextInt(); 
         int res = binarySearch(arr,k); 
         printRes(k,res); 
+        
     }
 }

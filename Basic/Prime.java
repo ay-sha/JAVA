@@ -27,5 +27,6 @@ public class Prime {
         System.out.println("Give Value for n");
         int n = sc.nextInt();
         printPrime(n);
+        sc.close();
     }
 }

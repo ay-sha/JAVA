@@ -25,5 +25,6 @@ public class BinomialCoff {
         int r = sc.nextInt();
         int res = binCoeff(n, r);
         System.out.println("Binomial Coefficient for "+n+" and "+r+" is: "+res);
+        sc.close();
     }
 }

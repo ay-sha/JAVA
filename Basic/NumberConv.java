@@ -35,5 +35,6 @@ public class NumberConv {
         int n = sc.nextInt();
         //decimalVal(n);
         binaryVal(n); 
+        sc.close();
     }
 }

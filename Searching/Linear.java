@@ -32,5 +32,6 @@ static boolean linearSearch(int arr[], int k){
         int k = sc.nextInt(); 
         boolean res = linearSearch(arr,k); 
         printRes(k,res); 
+        
     }
 }
