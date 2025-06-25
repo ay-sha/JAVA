@@ -30,5 +30,6 @@ public class Pairs {
             arr[i]= sc.nextInt();
         }
         pairs(arr);
+        sc.close();
     }
 }

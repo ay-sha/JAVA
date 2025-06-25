@@ -1,5 +1,4 @@
 package BitManipulation;
-import java.util.*;
 
 public class BasicFunction {
 static int getIthBit(int n ,int i){

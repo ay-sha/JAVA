@@ -30,5 +30,6 @@ public class Reverse {
         }
         reverseArray(arr);
         PrintArray(arr); 
+        sc.close();
     }
 }

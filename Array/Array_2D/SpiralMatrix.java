@@ -44,5 +44,6 @@ public class SpiralMatrix {
             {17,18,19,20}
         };
         printSpiralMatrix(matrix);
+        sc.close();
     }
 }
