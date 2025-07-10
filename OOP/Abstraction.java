@@ -13,7 +13,7 @@ public class Abstraction {
         c.changeColor();
         System.out.println(c.color);
 
-        Foal baby = new Foal(); //parent constructor then child constructor 
+        // Foal baby = new Foal(); //parent constructor then child constructor 
     }
 }
 
