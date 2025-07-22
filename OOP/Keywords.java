@@ -5,11 +5,11 @@ public class Keywords {
         Student s1 = new Student();
         s1.name = "Amin";
         s1.roll = 14488; 
-        s1.sclName = "Jubilee";
+        //s1.sclName = "Jubilee";
 
         Student s2 = new Student();
         System.out.println(s2.roll); // 0
-        System.out.println(s2.sclName); // Jubilee
+        //System.out.println(s2.sclName); // Jubilee
 
         Hippo hp = new Hippo();
         System.out.println(hp.color);
